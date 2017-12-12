@@ -1,0 +1,10 @@
+{
+    "name": "devin/aoc2016",
+    "authors": [
+        {
+            "name": "Devin",
+            "email": "devo1929@gmail.com"
+        }
+    ],
+    "require": {}
+}
